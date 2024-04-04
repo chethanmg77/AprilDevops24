@@ -1,0 +1,13 @@
+window.botpressWebChat.init({
+    "composerPlaceholder": "How can I help?",
+    "botConversationDescription": "Your Personal Online Business and Leadership Coach",
+    "botId": "fa1049b6-cb8a-43c5-a978-e53673611750",
+    "hostUrl": "https://cdn.botpress.cloud/webchat/v0",
+    "messagingUrl": "https://messaging.botpress.cloud",
+    "clientId": "fa1049b6-cb8a-43c5-a978-e53673611750",
+    "lazySocket": true,
+    "botName": "Online Business Coach",
+    "avatarUrl": "https://cdn.discordapp.com/attachments/1122778943821467739/1131565415059963924/Anurag-Jain.jpg",
+    "frontendVersion": "v0",
+    "useSessionStorage": true
+});

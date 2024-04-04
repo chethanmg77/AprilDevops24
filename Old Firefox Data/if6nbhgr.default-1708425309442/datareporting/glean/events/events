@@ -1,0 +1,4 @@
+{"timestamp":10302641,"category":"serp","name":"impression","extra":{"shopping_tab_displayed":"true","partner_code":"firefox-b-d","tagged":"true","source":"urlbar","impression_id":"850ebb62-6818-40d4-994f-f66c1bd455df","is_shopping_page":"false","provider":"google","is_private":"false"}}
+{"timestamp":10303676,"category":"serp","name":"ad_impression","extra":{"impression_id":"850ebb62-6818-40d4-994f-f66c1bd455df","component":"shopping_tab","ads_visible":"1","ads_loaded":"1","ads_hidden":"0"}}
+{"timestamp":10303970,"category":"serp","name":"engagement","extra":{"target":"non_ads_link","impression_id":"850ebb62-6818-40d4-994f-f66c1bd455df","action":"clicked"}}
+{"timestamp":38106443,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}
