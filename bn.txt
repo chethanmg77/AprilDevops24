@@ -1,0 +1,2 @@
+this is bn.txt script which is done is branch2 connected to main
+
